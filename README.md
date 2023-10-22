@@ -1,4 +1,4 @@
-### Hi there 👋
+
 # Hello, I'm Kenan Dizdarević 👋
 
 I'm a passionate and creative software developer from Sarajevo, Bosnia and Herzegovina. I love to code and create innovative solutions to real-world problems. Here you'll find some of my projects, contributions, and a glimpse of my journey into the world of programming.
