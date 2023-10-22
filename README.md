@@ -32,8 +32,8 @@ I'm always eager to learn new technologies and improve my skills. Currently, I'm
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenankd&show_icons=true&count_private=true)](https://github.com/kenankd)
 
-<!-- GitHub Readme Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenankd&layout=compact)
+
+
 
 ## 🤝 Connect with Me
 
