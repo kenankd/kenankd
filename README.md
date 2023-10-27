@@ -1,7 +1,7 @@
 
 # Hello, I'm Kenan Dizdarević 👋
 
-I'm a passionate and creative software developer from Sarajevo, Bosnia and Herzegovina. I love to code and create innovative solutions to real-world problems. Here you'll find some of my projects, contributions, and a glimpse of my journey into the world of programming.
+I'm a passionate software developer from Sarajevo, Bosnia and Herzegovina. Here you'll find some of my projects, contributions, and a glimpse of my journey into the world of programming.
 Have experience in building full-stack applications for android and web platforms, and currently working on two web app projects.
 
 ## 🔧 Technologies & Tools
@@ -32,14 +32,11 @@ I'm always eager to learn new technologies and improve my skills. Currently, I'm
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenankd&show_icons=true&count_private=true)](https://github.com/kenankd)
 
-
-
-
 ## 🤝 Connect with Me
 
 Feel free to connect with me, I'm always open to interesting conversations and collaboration in exciting projects:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kenan-dizdarevic-22b0aa281/)
+- LinkedIn: [Kenan Dizdarević](https://www.linkedin.com/in/kenan-dizdarevic-22b0aa281/)
 Let's code something amazing together! 😊
 
 
