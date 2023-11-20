@@ -30,7 +30,7 @@ I'm always eager to learn new technologies and improve my skills. Currently, I'm
 
 ## 🤝 Connect with Me
 
-Feel free to connect with me, I'm always open to interesting conversations and collaboration in exciting projects:
+Feel free to connect with me:
 
 - LinkedIn: [Kenan Dizdarević](https://www.linkedin.com/in/kenan-dizdarevic-22b0aa281/)
 
