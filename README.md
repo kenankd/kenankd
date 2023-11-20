@@ -1,5 +1,5 @@
 
-# Hello, I'm Kenan Dizdarević 👋
+# Kenan Dizdarević 
 
 I'm a software developer from Sarajevo, Bosnia and Herzegovina. Here you'll find some of my projects and contributions.
 Have experience in building full-stack applications for android and web platforms, and currently working on two web app projects.
