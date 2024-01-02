@@ -9,7 +9,7 @@ Have experience in building full-stack applications for android and web platform
 - **Languages:** Java, Kotlin, C, C++, C#, JavaScript
 - **Web Technologies:** HTML, CSS
 - **Frameworks:** ASP.NET, Spring Boot, Spring Security, Spring Data JPA, Node.js
-- **ORM Frameworks:** Hibernate, Mongoose
+- **ORM Frameworks:** Hibernate
 - **Databases:** MySQL, Oracle, Microsoft SQL Server
 - **Tools:** Visual Studio, VS Code, IntelliJ
 - **Other:** Git
